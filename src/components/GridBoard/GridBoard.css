@@ -1,0 +1,16 @@
+.game-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid-board-container {
+  margin-top: 5rem;
+  background-color: rgb(255, 145, 0);
+  width: fit-content;
+}
+
+.grid-board {
+  border: 2px solid black;
+}

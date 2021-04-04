@@ -1,0 +1,12 @@
+.node-container {
+  padding: 15px;
+  border: 1px solid black;
+}
+
+.startingNode {
+  background-color: greenyellow;
+}
+
+.endingNode {
+  background-color: cyan;
+}
